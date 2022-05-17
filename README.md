@@ -11,4 +11,6 @@ Spotify integrated along with GMaps;<br>
 Battery temperature control.<br>
 <h3>Everything you need to modernize one old ass car.</h3>
 <p>You don't need to buy expensive trash car dashboards, you already have it in your pocket!</p>
-
+<p>DALAS uses Tensorflow ( i know , bad choice ), but it can easily be modified to your needs.</p>
+<p>It also utilizes C++ for backend , you know , when Java is too crappy.</p>
+<p>To be honest , java is always too crapy, so I'm thinking about DALAS OS to replace this launcher.</p>
