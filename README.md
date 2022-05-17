@@ -1,5 +1,5 @@
 # DALAS
-<h4>Driving system that is using machine learning to help focus while driving .</h4>
+<h4>Driving system that is using machine learning to help you focus you're while driving .</h4>
 <h3>Home Page</h3>
 
 ![mainpage](https://user-images.githubusercontent.com/59802817/168907072-f349b255-7a7c-400f-b480-839dbe9bf7c0.png)
